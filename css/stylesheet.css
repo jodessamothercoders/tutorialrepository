@@ -1,0 +1,53 @@
+html {
+	background: url("http://www.pixelstalk.net/wp-content/uploads/2016/07/Computer-Science-Desktop-Background.jpg");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+img, #name{
+	vertical-align: middle;
+	height: 15%;
+	width: 15%;
+}
+
+.navigation {
+	text-align: center;
+	display: block;
+	padding: 10px 50px 50px 50px ;
+	margin: 20px;
+}
+
+a {
+	text-transform: uppercase;
+	font-weight: 200;
+	text-decoration: none;
+	padding: 10px;
+	margin: 20px;
+	border: 1px  dotted black;
+	background-color: #0066ff;
+}
+
+.pic_name {
+	display: block;
+	padding: 75px 0px 10px 100px;
+}
+
+#name {
+	color: #0066ff;
+}
+
+footer {
+	font-weight: bolder;
+	color: black;
+	
+
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	background-color: #efefef;
+	text-align: center;
+}
